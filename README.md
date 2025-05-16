@@ -22,11 +22,6 @@ After downloading the data and understanding it, we begin by data cleaning. I cr
 On the Pivot table sheets, 3 pivot tables were created. 
 ### Table 1: Average Income Per Purchase
 
-Average of Income	Column Labels		
-Row Labels	No	Yes	Grand Total
-Female	$53,450	$55,267	$54,331
-Male	$56,520	$59,603	$58,000
-Grand Total	$55,028	$57,475	$56,209
 ![image](https://github.com/user-attachments/assets/385bbf80-bf73-495b-b004-e3e578da1138)
 
 ### Graph1: 
