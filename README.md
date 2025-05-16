@@ -28,6 +28,16 @@ On the Pivot table sheets, 3 pivot tables were created.
 ![image](https://github.com/user-attachments/assets/36388567-238d-4b83-a901-c4fda675334f)
 
 ### Table 2: Count of Purchased by commute distance
+
+![image](https://github.com/user-attachments/assets/342304c6-8d6c-43b6-a087-4cbc49f93ef9)
+
 ### Graph 2:
+![image](https://github.com/user-attachments/assets/4c41c423-9ee6-4e4a-957a-8741f2a2c92e)
+
 ### Table 3: Count of purchase by age group
+
+![image](https://github.com/user-attachments/assets/1eab3ba4-4cbf-433f-a7d6-7d96f6b890cf)
+
 ### Graph 3: 
+![image](https://github.com/user-attachments/assets/0c1935d0-2e28-49c0-b1d6-3afe46b09911)
+
