@@ -2,7 +2,7 @@
 
 ![image](https://github.com/user-attachments/assets/82aca801-7515-457b-bb50-7b3827bd9895)
 
-This is an excel data analysis using CRISP-DM framework. This is a refresher project I am making with excel to analyze and understand bicycle purchases with respect to gender, distance of commute, and age.
+This is an excel data analysis using CRISP-DM framework. This is a refresher project for me in excel to analyze and understand bicycle purchases with respect to gender, distance of commute, and age. I extract data, clean, manipulate, use pivort tables, and create charts to clearly show trends we can make inferences from. 
 
 ## Business Understanding
 
